@@ -1,8 +1,6 @@
 # Travel_Mangalore
-## This is a app which represent the travelling places in jaipur.
-# Udacity and Google India Scholarship Program
-## Android Basics Nanodegree Project 5 "Tour Guide App"
-## Name of App - "Travel_Mangalore"
+ This is a app which represent the travelling places in Mangalore.
+ Name of App - "Travel_Mangalore"
 
 <b>PROJECT SPECIFICATION</b>
 
@@ -18,13 +16,12 @@
 10. All variables, methods, and resource IDs are descriptively named so that another developer reading the code can easily understand their function.
 
 <b>This app features four things:</b> <br>
-  1.) City Overview Places in Jaipur <br>
-  2.) Restaurent (Best in Jaipur) <br>
+  1.) City Overview Places in Mangalore <br>
+  2.) Restaurent (Best in Mangalore) <br>
   3.) Lodges in Jaipur <br>
   4.)Historical Places in  Jaipur <br>
 
 Used ViewPager + Fragments as well as TabLayout to display the content. Also it is powered using Custom Array Adapter. 
 ## Travel_Mangalore App Images
 
-<img src = "1.jpeg" width="300px" height="550px" > <img src = "2.jpeg" width="300px" height="550px"><br>
-<img src = "3.jpeg" width="300px" height="550px" > <img src = "4.jpeg" width="300px" height="550px" >
+
