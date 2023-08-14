@@ -22,6 +22,6 @@
   4.)Historical Places in  Jaipur <br>
 
 Used ViewPager + Fragments as well as TabLayout to display the content. Also it is powered using Custom Array Adapter. 
-## Travel_Mangalore App Images
+
 
 
