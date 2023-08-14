@@ -18,8 +18,8 @@
 <b>This app features four things:</b> <br>
   1.) City Overview Places in Mangalore <br>
   2.) Restaurent (Best in Mangalore) <br>
-  3.) Lodges in Jaipur <br>
-  4.)Historical Places in  Jaipur <br>
+  3.) Lodges in Mangalore <br>
+  4.)Historical Places in  Mangalore <br>
 
 Used ViewPager + Fragments as well as TabLayout to display the content. Also it is powered using Custom Array Adapter. 
 
