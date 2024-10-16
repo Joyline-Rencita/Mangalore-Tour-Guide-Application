@@ -21,7 +21,8 @@
   3.) Lodges in Mangalore <br>
   4.)Historical Places in  Mangalore <br>
 
+
 Used ViewPager + Fragments as well as TabLayout to display the content. Also it is powered using Custom Array Adapter. 
 
-
-
+### Screenshots:
+![Mobile app](https://github.com/user-attachments/assets/918edc55-0531-48e2-9cbd-40133d1314b5)
