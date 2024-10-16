@@ -25,4 +25,6 @@
 Used ViewPager + Fragments as well as TabLayout to display the content. Also it is powered using Custom Array Adapter. 
 
 ### Screenshots:
-![Mobile app](https://github.com/user-attachments/assets/918edc55-0531-48e2-9cbd-40133d1314b5)
+![img1](https://github.com/user-attachments/assets/a031ea6e-c591-48da-ae4e-94253b3057ca)
+![img2](https://github.com/user-attachments/assets/90e064d3-0c78-4e33-a88f-991478c12b8d)
+
